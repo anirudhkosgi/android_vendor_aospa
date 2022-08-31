@@ -30,6 +30,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/lunaa/aospa_lunaa.mk \
     $(LOCAL_DIR)/lynx/aospa_lynx.mk \
     $(LOCAL_DIR)/mi439/aospa_mi439.mk \
+    $(LOCAL_DIR)/laurel_sprout/aospa_laurel_sprout.mk \
     $(LOCAL_DIR)/miatoll/aospa_miatoll.mk \
     $(LOCAL_DIR)/mini5g/aospa_mini5g.mk \
     $(LOCAL_DIR)/munch/aospa_munch.mk \
@@ -70,6 +71,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_lunaa-userdebug \
     aospa_lynx-userdebug \
     aospa_mi439-userdebug \
+    aospa_laurel_sprout-userdebug \
     aospa_miatoll-userdebug \
     aospa_mini5g-userdebug \
     aospa_munch-userdebug \
